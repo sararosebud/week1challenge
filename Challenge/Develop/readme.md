@@ -19,7 +19,7 @@ Navigate to week1challenge/Challenge/Develop/index.html
 Provide instructions and examples for use. Include screenshots as needed.
 The site provides information about the company and what services they provide. 
 
-![screenshot-of-website](../Assets/images/week1challengescreenshot.png)
+![screenshot-of-index.html](../../assets/Screenshot_20221026_072621.png)
 
 ## Credits
 
